@@ -1,3 +1,16 @@
+"""
+===========================================
+FUNNY PASSWORD GENERATOR
+===========================================
+Generates random funny passwords that are easy to remember.
+Just run: python password.py
+
+Example output:
+=== FUNNY PASSWORD GENERATOR ===
+Your password: CrazyPanda42!
+===========================================
+"""
+
 import random
 
 adjectives = ["Crazy", "Sleepy", "Loud", "Shy", "Bold", "Wild", "Cool"]
