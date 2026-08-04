@@ -1,3 +1,18 @@
+"""
+===========================================
+UNIVERSAL CONVERTER
+===========================================
+Converts KM to Miles, KG to Pounds, Celsius to Fahrenheit, and USD to EUR.
+Just run: python converter.py
+
+Options:
+1 - KM to Miles
+2 - KG to Pounds
+3 - Celsius to Fahrenheit
+4 - USD to EUR
+===========================================
+"""
+
 print("=== UNIVERSAL CONVERTER ===\n")
 print("1. KM to Miles")
 print("2. KG to Pounds")
