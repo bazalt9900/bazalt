@@ -1,3 +1,17 @@
+"""
+===========================================
+RANDOM ADVICE GENERATOR
+===========================================
+Gives you a random life advice every time you run it.
+Just run: python advice.py
+
+Example output:
+=== YOUR RANDOM ADVICE ===
+Pet your cat
+Follow it wisely!
+===========================================
+"""
+
 import random
 
 advice_list = [
